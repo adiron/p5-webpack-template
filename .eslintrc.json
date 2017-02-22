@@ -1,0 +1,13 @@
+{
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType": "module"
+    },
+    "rules": {
+        "semi": "error",
+        "no-unused-vars": "warn",
+        "no-duplicate-imports": "error",
+        "no-useless-constructor": "warn",
+        "prefer-const": "warn"
+    }
+}
